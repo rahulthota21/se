@@ -40,3 +40,9 @@ a {
     color-scheme: dark;
   }
 }
+
+/* src/app/globals.css */
+html {
+  scroll-behavior: smooth;
+}
+
